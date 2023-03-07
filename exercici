@@ -17,3 +17,9 @@ IP 192.168.16.0
 Máscara???  
 
 Para 10. 2^4=16 por lo tanto son 4 ceros (11110000) =240 
+
+3.b)255.255.240.0 
+Máscara de una clase b, en la cual se pretenden tener 2500 equipos  
+
+2^11=2048, faltan 
+2^12= 4096 por lo tanto son (11110000) =240  

@@ -10,3 +10,10 @@ Subir a 55 subredes
 2^6=64 por lo tanto se coge esté, sobrando 9 subredes 
 Por lo tanto, son 6 unos y lo demás ceros (11111100) =252 
 ¡Los 1 son subredes y los 0 equipos (hosts)! 
+
+2.c) 255.255.255.240 
+IP 192.168.16.0 
+=>10 subredes con 10 hosts cada una 
+Máscara???  
+
+Para 10. 2^4=16 por lo tanto son 4 ceros (11110000) =240 

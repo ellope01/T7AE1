@@ -42,3 +42,9 @@ clase b=128.0...-191.255...
 ·10111001=185 
 ·11011001=217 (no) 
 ·10011111=159 
+
+8.b) 128 subredes con 510 hosts 
+255.255.254.0 
+254.0= (1111 1110). (0000 0000) 
+7 unos= 2^7 =128 subredes 
+9 ceros = 2^9 = 512 (totales menos 2 (principal y última)), por lo tanto 510 equipos  

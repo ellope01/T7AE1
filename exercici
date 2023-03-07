@@ -67,3 +67,9 @@ Para saber la dirección del 1º host será la siguiente dirección ip a partir 
 La dirección del último host disponible será la anterior a la de broadcast 
 Para calcular la dirección de broadcast ponemos los 11 bits del host a uno. 
 1010 1100. 0001 0011. 0100 0111(71).1111 1111 
+
+14.b)/21
+clase b dividida en 20 subredes + 4 en los prox años
+2000 host por subred
+20+4=24 2^5=30
+255(8*1).255(8*1).(5*1).(0*1)=21

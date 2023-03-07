@@ -23,3 +23,13 @@ Máscara de una clase b, en la cual se pretenden tener 2500 equipos
 
 2^11=2048, faltan 
 2^12= 4096 por lo tanto son (11110000) =240  
+
+5.d)172.16.63.51 
+
+255.255.224.0 = máscara, cual no pertenece a la misma red? 
+224=1110 0000 
+
+a.66=0100 0010 
+b.65=0100 0001 
+c.64=0100 0000 
+d.63=0011 1111	=> Por lo tanto de todas las que hay esta es la distinta 

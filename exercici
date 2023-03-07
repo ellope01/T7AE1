@@ -91,3 +91,8 @@ Broadcast=> 1100 0000. 1010 1000.0101 0101.1011 1111(191)
 17.a) 64 subredes 
 
 18.128 subredes y 510 host mezcla entre a y b 
+
+20 . d)255.255.254.0 
+
+clase b 500 host por subred 
+2^9=512 

@@ -52,3 +52,6 @@ clase b=128.0...-191.255...
 8-2. e) Ninguna de las respuestas es correcta 
 255.255.255.254 
 254= (1111 1110) 
+
+10.a)255.0.0.0 
+Cantidad de host es que tantos ceros existen p0r lo tanto la a)255.0.0.0, que es la que más ceros tiene es la correcta. 

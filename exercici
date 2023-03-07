@@ -1,0 +1,12 @@
+1.c)255.255.252.0 
+IP 172.30.0.0 /16 
+=>25 subredes 
+=>Mínimo de 1000 hosts por subred 
+Clase B (128.0.0.0 hasta 191.255.255.255) lo que se puede modificar 
+
+Subir a 55 subredes 
+55-25=30 subredes de más 
+2^5=32 
+2^6=64 por lo tanto se coge esté, sobrando 9 subredes 
+Por lo tanto, son 6 unos y lo demás ceros (11111100) =252 
+¡Los 1 son subredes y los 0 equipos (hosts)! 

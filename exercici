@@ -55,3 +55,15 @@ clase b=128.0...-191.255...
 
 10.a)255.0.0.0 
 Cantidad de host es que tantos ceros existen p0r lo tanto la a)255.0.0.0, que es la que más ceros tiene es la correcta. 
+
+12.a) dirección = 172.18.64.0, broadcast 172.18.80.255 
+IP 172.18.71.2/21 
+
+1º_32-21=11 serán los bits que se utilizaran para el host 
+2º_1010 1100. 0001 0011. 0100 0111. 0000 0010 
+Para saber la dirección de red, se ponen los los 11 bits de host a cero 
+1010 1100. 0001 0011. 0100 0000(64).0000 0000 
+Para saber la dirección del 1º host será la siguiente dirección ip a partir de la red. 
+La dirección del último host disponible será la anterior a la de broadcast 
+Para calcular la dirección de broadcast ponemos los 11 bits del host a uno. 
+1010 1100. 0001 0011. 0100 0111(71).1111 1111 
